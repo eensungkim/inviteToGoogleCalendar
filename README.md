@@ -1,1 +1,1 @@
-# inviteToGoogleCalendar
+# sharingGoogleCalendar
